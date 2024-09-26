@@ -24,11 +24,11 @@ We welcome contributions from the community! Here’s how you can get involved:
 For more detailed contribution guidelines, please refer to our [CONTRIBUTING.md](link-to-contributing-guide).
 
 ## 📚 Resources & Documentation
-You can find additional resources, including detailed documentation and APIs, on our [website](https://gitcoatings.com/docs) or within each repository.
+You can find additional resources, including detailed documentation and APIs, on our [website](https://gitcoatings.com/) or within each repository.
 
 Some key resources:
 - [About Us](https://gitcoatings.com/about)
-- [API Reference](https://gitcoatings.com/api)
+- [API Reference](https://gitcoatings.com/)
 - [Company News](https://gitcoatings.com/news/#)
 
 ## 🚀 Our Vision
