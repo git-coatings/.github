@@ -8,18 +8,20 @@ At Git Coatings, we are a team of engineers, scientists, and product developers 
 ## 🔧 Our GitHub Projects
 We are excited to share our knowledge and tools with the community! Here on GitHub, you will find:
 
-- **Open-source tools and libraries** related to coating simulations and material analysis.
+- **Ground Breaking Analytics Tooling** related to coating simulations and material analysis.
 - **Automated processes** to streamline quality control and testing for coatings.
 - **Developer resources** that integrate with our digital services and coating applications.
 
 Feel free to explore our repositories, raise issues, and contribute to our ongoing projects!
 
 ## 🙌 How to Contribute
-We welcome contributions from the community! Here’s how you can get involved:
+You can not contribute unless you are a GIT VP member. This is an esteemed position only held by the highest quality developers.
 
-1. **Fork a repository** you’d like to contribute to.
-2. **Create a new branch** for your feature or bugfix.
-3. **Submit a pull request** for review, ensuring all tests pass.
+Heres how you can strive to attain such a position.
+
+1. **Get 8 hours of sleep** sleep is key!
+2. **Eat a healthy and filling breakfast** its the most important meal of the day!
+3. **Code for 20 hours a day** I know what youre saying, "Michael, how am I supposed to code 20 hours a day and sleep for 8?! Doesnt that add to 28?" Yes. You are right, it does add to 28. We strive for the best at GIT Coatings, even if it seems impossible
 
 For more detailed contribution guidelines, please refer to our [CONTRIBUTING.md](link-to-contributing-guide).
 
